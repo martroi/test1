@@ -1,0 +1,25 @@
+Clase 01
+========
+
+Variables
+#########
+
+Nombres
+*******
+* Comienzan con: **letra minúscula** o **'_'** (guión bajo).
+* Siguen con (si tienen mas de una letra): **letras minúsculas**, **números** o **'_'**.
+* No pueden tener espacios en blanco (usar _ en ese caso), ni tildes, ni diéresis.
+Nota: se podrían usar letras MAYUSCULAS (va a funcionar PERO es un estilo incorrecto).
+
+Nota: poner nombres que tengan sentido para entender que contienen.
+
+Ejemplos:
+
+.. code-block:: python
+    edad = 20
+    pi = 3.14159265358979323846264338327950288419716939937510
+    mol = 6.022e+23
+    numero_complejo = 5 + 4j
+    nombre_y_apellido = 'Juan Perez'
+    tiene_hijos = True
+    en_chino = '新时代，我在中国|大厨小用？捷克老铁包的除夕水饺嘎嘎香'
